@@ -1,0 +1,13 @@
+{
+  "projects": {},
+  "targets": {
+    "one-of-many-c94a4": {
+      "hosting": {
+        "dorom-admin": [
+          "doron-kigler"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
