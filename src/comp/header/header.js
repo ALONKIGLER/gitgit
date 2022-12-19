@@ -32,7 +32,7 @@ function Header() {
             <NavLink to="/product" className="nav-link">
               מוצרים
             </NavLink>{" "}
-            <NavLink to="/product" className="nav-link">
+            <NavLink to="/order" className="nav-link">
               הזמנות
             </NavLink>{" "}
           </Nav>
